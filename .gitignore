@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+rough.txt
+deepseek-r1-chat.py
+
 # Distribution / packaging
 .Python
 build/
