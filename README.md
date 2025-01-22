@@ -1,5 +1,7 @@
 # Ollama Deepseek Local Chatbot 🤖
 
+App by [Build Fast with AI](https://www.buildfastwithai.com/genai-course)
+
 A lightweight, offline-capable chatbot powered by Deepseek R1 1.5B and Ollama, running completely on your local machine. No internet required!
 
 ## Features ✨
