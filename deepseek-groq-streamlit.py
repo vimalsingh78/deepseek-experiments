@@ -19,6 +19,14 @@ with st.sidebar:
     st.caption("Running: `deepseek-r1-distill-llama-70b`")
     st.caption("Groq LPU Inference Engine")
     
+    # Add New Chat button
+    st.divider()
+    if st.button("🔄 Start New Chat", use_container_width=True):
+        st.session_state.messages = [
+            SystemMessage(content="You are a helpful AI assistant.")
+        ]
+        st.rerun()
+    
     # Add branding with hyperlink
     st.divider()
     st.markdown(
