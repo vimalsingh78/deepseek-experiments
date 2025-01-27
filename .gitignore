@@ -8,6 +8,9 @@ __pycache__/
 
 rough.txt
 deepseek-r1-chat.py
+turn_any_model_to_o1.ipynb
+rough.ipynb
+
 
 # Distribution / packaging
 .Python
