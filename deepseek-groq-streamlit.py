@@ -5,7 +5,8 @@ import os
 
 # Set up Streamlit page
 st.title("🚀 Deepseek-R1 Llama-70B Chat")
-st.write("⚡ Blazing-fast Thinking Model powered by Groq ❤️")
+# st.write("⚡ Blazing-fast Thinking Model powered by Groq ❤️")
+st.write("❤️ Built by [Build Fast with AI](https://buildfastwithai.com/genai-course)")
 
 # Add sidebar for API key input and details
 with st.sidebar:
